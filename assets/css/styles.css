@@ -1,0 +1,10 @@
+html,
+body {
+    font-family: Sofia;
+    margin: 0%;
+    height: 100%;
+    color: rgb(138, 106, 133);
+    cursor: url('../images/smi335.cur'), auto !important;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Yesteryear");
